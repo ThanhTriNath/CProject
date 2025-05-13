@@ -4,7 +4,7 @@ CFLAGS = -Wall -Wextra -Werror
 
 # Define the output executable and the source files
 TARGET = program
-SRC = Fiche.c Hello_world.c
+SRC = Hello_world.c
 
 # Default target
 all: $(TARGET)
